@@ -1,0 +1,44 @@
+.highlitedWord {
+  background-color: yellow;
+}
+.container {
+  background-color: rgb(221, 219, 219);
+  padding: 20px;
+  border-radius: 5px;
+}
+.container h1 {
+  margin-bottom: 40px;
+}
+.searchContainer {
+  width: 700px;
+  padding: 10px;
+  background-color: white;
+  border-radius: 3px;
+  margin-bottom: 30px;
+}
+
+.searchContainer input {
+  outline: none;
+  border: none;
+  background-color: transparent;
+  width: 100%;
+  font-size: 18px;
+}
+.postsNumber {
+  margin-bottom: 30px;
+  font-size: 20px;
+}
+.articleTitle {
+  font-size: 25px;
+}
+.articleDate {
+  font-size: 20px;
+  margin: 10px 0;
+  display: inline-block;
+}
+.articleParag {
+  font-size: 20px;
+}
+.articleContainer {
+  margin-bottom: 30px;
+}
